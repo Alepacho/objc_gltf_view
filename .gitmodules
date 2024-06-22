@@ -1,0 +1,15 @@
+[submodule "vendor/cgltf"]
+	path = vendor/cgltf
+	url = https://github.com/jkuhlmann/cgltf.git
+[submodule "vendor/cglm"]
+	path = vendor/cglm
+	url = https://github.com/recp/cglm.git
+[submodule "vendor/stb"]
+	path = vendor/stb
+	url = https://github.com/nothings/stb.git
+[submodule "vendor/SDL"]
+	path = vendor/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "vendor/base"]
+	path = vendor/base
+	url = https://github.com/Alepacho/base.git

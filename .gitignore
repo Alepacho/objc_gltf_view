@@ -1,0 +1,6 @@
+.DS_Store
+.cache
+.hidden
+
+bin/gltf_view
+build/
